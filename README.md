@@ -7,5 +7,3 @@ I'm Jminding.  I like to code for fun.  I primarily do Python and Swift, althoug
 Discord: [Jminding#6728](https://discord.com/users/645315667486179337)
 
 (Primary) Email: jtding43@gmail.com
-
-AoPS: [BlueJay43](https://artofproblemsolving.com/community/user/558282)
