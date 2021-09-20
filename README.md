@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm Jminding.  I like to code for fun.  I primarily do Python and Swift, although I do like to learn other languages.  I know some HTML and CSS, and I know very little Java and JavaScript.
+I'm Jminding.  I like to code for fun.  I primarily do Python, Swift, and Java, although I do like to learn other languages.  I know enough HTML, CSS, and JS to make a website, and I know some basic C++.
 
 ## Contact Me
 Discord: [Jminding#6728](https://discord.com/users/645315667486179337)
