@@ -3,13 +3,12 @@
 
 I'm Jay.  I like to code for fun.  I primarily do Web Development, Python, and Java.
 
-All Languages I Know At Least a The Basics Of:
+All Languages I Know At Least The Basics Of:
 * Python
 * Java
 * HTML/CSS/JS
 * Swift
 * C/C++
-* C#
 
 
 ## Contact Me
