@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hello there, mortal being 👋
 
 
-I'm Jay.  I like to code for fun.  I primarily do Web Development, Python, and Java.
+I'm Jay.  I primarily do Web Development, Python, and Java.
 
 All Languages I Know At Least The Basics Of:
 * Python
@@ -10,6 +10,8 @@ All Languages I Know At Least The Basics Of:
 * Swift
 * C/C++
 
+## My Website
+https://jay-ding.pages.dev/
 
 ## Contact Me
 Discord: [Jminding#1358](https://discord.com/users/645315667486179337)
