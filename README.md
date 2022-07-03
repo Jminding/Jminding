@@ -9,6 +9,7 @@ All Languages I Know At Least The Basics Of:
 * HTML/CSS/JS
 * Swift
 * C/C++
+* R
 
 ## My Website
 https://jay-ding.pages.dev/
