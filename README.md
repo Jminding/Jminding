@@ -1,4 +1,4 @@
-# Hello there, mortal being 👋
+# Hello there 👋
 
 
 I'm Jay.  I primarily do Web Development, Python, and Java.
