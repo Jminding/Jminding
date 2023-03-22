@@ -1,9 +1,9 @@
 # Hello there 👋
 
 
-I'm Jay.  I primarily do Web Development, Python, and Java.
+I'm Jay.  I primarily do mobile development, web development, Python, and Java.
 
-All Languages I Know At Least The Basics Of:
+All Languages I Know:
 * Python
 * Java
 * HTML/CSS/JS
