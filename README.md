@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello, World 👋
 
 
 I'm Jay.  I primarily do mobile development, web development, Python, and Java.
